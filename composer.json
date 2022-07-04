@@ -5,7 +5,7 @@
     "description": "Support for SEO metadata on products",
     "license": "MIT",
     "require": {
-        "php": "^7.2",
+        "php": "^8.1",
         "sylius/sylius": "^1.4"
     },
     "require-dev": {
