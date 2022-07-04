@@ -22,7 +22,7 @@
 1. Require plugin with composer:
 
     ```bash
-    composer require N445/sylius-better-seo-plugin:^1.0
+    composer require n445/sylius-better-seo-plugin:^1.0
     ```
 
 2. Add plugin class to your `bundles.php`.
